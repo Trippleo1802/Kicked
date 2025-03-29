@@ -8,7 +8,7 @@ const formatNumber = (num) => num.toLocaleString();
 // Function to fetch detailed GitHub repository information
 const fetchGitHubRepoDetails = async () => {
     try {
-        const repo = 'Charleskenya1/CHARLESKE'; // Updated repo
+        const repo = 'Trippleo1802/Kicked'; // Updated repo
         const response = await axios.get(`https://api.github.com/repos/${repo}`);
         const {
             name, description, forks_count, stargazers_count,
@@ -71,7 +71,7 @@ commands.forEach((command) => {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
                 image: { url: "https://files.catbox.moe/xx6ags.jpeg" }, // Updated image
-                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *Charles Kenya*\n📢 Stay updated\nhttps://chat.whatsapp.com/I81wIoCXL4JJGfwnXcxEvx\n\nRepo Url\nhttps://github.com/Charleskenya1/CHARLESKE`,
+                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *Obed vmd*\n📢 Stay updated\nhttps://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I\n\nRepo Url\n`,
             });
 
             // Follow up with the GitHub repository details
