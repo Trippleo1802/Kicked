@@ -26,7 +26,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     let infoMsg = `🎩 *Hello ${nomAuteurMessage}!* 🎩
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄  
+🚀 *BOT NAME:* OBED  
 ━━━━━━━━━━━━━━━━━━━━
 🌍 *SYSTEM INFO:*
 💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
@@ -61,7 +61,7 @@ ${readMore}
         menuMsg += `━━━━━━━━━━━━━━━━━━━━\n`;
     }
 
-    menuMsg += `✨ *𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 Charles ke* ✨`;
+    menuMsg += `✨ *OBED VMD 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 obed* ✨`;
 
     let imageUrl = "https://files.catbox.moe/n6dmx3.jpeg";
 
