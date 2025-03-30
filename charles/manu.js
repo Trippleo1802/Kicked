@@ -38,14 +38,14 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 📆 ᴅᴀᴛᴇ: ${date}
 ━━━━━━━━━━━━━━━━━━━━
 📢 *𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒 & 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍𝐒:*  
-📺 𝐘𝐎𝐔𝐓𝐔𝐁𝐄:  
-🔗 https://youtube.com/@charles_odhiambo_official?si=kw62odfMmuam1JOo  
+📺 REPO:  
+🔗 https://github.com/Trippleo1802/Kicked  
 📘 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:  
-🔗 https://www.facebook.com/profile.php?id=100083389717604  
+🔗 https://www.facebook.com/profile.php?id=100080019176929  
 📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏:  
-🔗 https://chat.whatsapp.com/I81wIoCXL4JJGfwnXcxEvx  
+🔗 https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I  
 📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:  
-🔗 https://www.instagram.com/charles_a_ke  
+🔗  
 ━━━━━━━━━━━━━━━━━━━━
 ${readMore}
 📜 *COMMAND MENU* 📜
