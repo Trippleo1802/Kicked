@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄
+OBED TECH
 
 *BUGMENU*
 
@@ -63,7 +63,7 @@ let menuMsg = `
   
 
 
-> ©𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄
+> ©OBED TECH
 `;
 
    var lien = mybotpic();
