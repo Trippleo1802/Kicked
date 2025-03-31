@@ -30,11 +30,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>Stay Connected With The Uatest Updates By
-   <br>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-
 <a href="https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 </div>
 
