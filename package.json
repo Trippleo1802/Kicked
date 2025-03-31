@@ -1,12 +1,12 @@
 
 {
-  "name": "Charlie-mf",
+  "name": "obedie-mf",
   "version": "2.0.0",
   "description": "",
-  "main": "charles.js",
+  "main": "obed.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"node charles.js\" \"node charles.js\"",
+    "start": "concurrently \"node charles.js\" \"node obed.js\"",
     "c": "tsc"
   },
   "keywords": [
