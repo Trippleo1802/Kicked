@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 ┗━━━┓
+┏━━━┛ OBED ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 rank┗━━━┓
+┏━━━┛ OBED TECH rank┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
