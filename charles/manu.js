@@ -69,7 +69,7 @@ ${readMore}
         zk.sendMessage(dest, { 
             image: { url: imageUrl }, 
             caption: infoMsg + menuMsg, 
-            footer: "© Charles KE" 
+            footer: "© obed tech" 
         }, { quoted: ms });
     } catch (e) {
         console.log("🥵 Menu error: " + e);
