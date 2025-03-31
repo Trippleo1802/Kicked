@@ -44,8 +44,8 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 🔗 https://www.facebook.com/profile.php?id=100080019176929  
 📢 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏:  
 🔗 https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I  
-📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌:  
-🔗  
+📸 TIKTOK:  
+🔗tiktok.com/@obedomoke39  
 ━━━━━━━━━━━━━━━━━━━━
 ${readMore}
 📜 *COMMAND MENU* 📜
