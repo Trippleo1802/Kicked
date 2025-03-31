@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://charle-ke.onrender.com
+ https://session1234-76aeb9a87df0.herokuapp.com/pair
  
  
  *STEPS TO GET SESSION*
@@ -49,7 +49,7 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 🚘🚘🚘
+ 🦃🦃🦃
  `;
     
 let menuMsg = `
