@@ -33,7 +33,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   tag +=`
   
 ╭─────────────━┈⊷ 
-│🔰 𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄 𝐓𝐀𝐆
+│🔰 OBED TECH 𝐓𝐀𝐆
 ╰─────────────━┈⊷ \n
 │👥 *Group* : ${nomGroupe} 
 │👤 *Hey😀* : *${nomAuteurMessage}* 
@@ -662,7 +662,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
         let media  = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage)
 
         let stickerMess = new Sticker(media, {
-          pack: 'Bmw-mdtag',
+          pack: 'Obed vmdtag',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
