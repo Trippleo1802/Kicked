@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ OBED ┗━━━┓
+┏━━━┛ OBED TECH┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
