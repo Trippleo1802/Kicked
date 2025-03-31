@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑OBED`🩸⃟༑༑+TECH+BOT+`🩸⃟༑༑)](https://git.io/typing-svg)
 
 <p align="centre"><img src="https://files.catbox.moe/f70978.jpg" width="900" height="200" />
- 𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+
+ BELOW 𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
