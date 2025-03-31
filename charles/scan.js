@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
  `;
     
 let menuMsg = `
-> Made by : ©𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄
+> Made by : ©OBED TECH 
 `;
 
    var lien = mybotpic();
