@@ -6,7 +6,7 @@
   "main": "obed.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "concurrently \"node charles.js\" \"node obed.js\"",
+    "start": "concurrently \"node obed.js\" \"node obed.js\"",
     "c": "tsc"
   },
   "keywords": [
