@@ -6,7 +6,7 @@
 <p align="centre"><img src="https://files.catbox.moe/f70978.jpg" width="900" height="200" />
 
 
- BELOW 𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+ USE BELLOW BUTTON 
 
    🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
