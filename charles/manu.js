@@ -26,7 +26,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     let infoMsg = `🎩 *Hello ${nomAuteurMessage}!* 🎩
 ━━━━━━━━━━━━━━━━━━━━
-🚀 *BOT NAME:* OBED  
+🚀 *BOT NAME:* OBED TECH  
 ━━━━━━━━━━━━━━━━━━━━
 🌍 *SYSTEM INFO:*
 💻 ᴘʟᴀᴛғᴏʀᴍ: *${os.platform()}*
@@ -63,7 +63,7 @@ ${readMore}
 
     menuMsg += `✨ *OBED VMD 𝐁𝐎𝐓 - 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒅 𝒃𝒚 obed* ✨`;
 
-    let imageUrl = "https://files.catbox.moe/n6dmx3.jpeg";
+    let imageUrl = "https://files.catbox.moe/yedfbr.jpg";
 
     try {
         zk.sendMessage(dest, { 
