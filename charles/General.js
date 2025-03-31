@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING OBED TECH, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/F5BXJci8EDS9AJ6sfKMXIS]☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/DfJTRlOtIc5HTEFptXYvsV] \n\n\n𝑪𝒓𝒆𝒂𝒕 OBED VMD ") 
+  repondre("THANK YOU FOR CHOOSING OBED TECH, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[]☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I] \n\n\n𝑪𝒓𝒆𝒂𝒕 OBED VMD ") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING OBED VMD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
