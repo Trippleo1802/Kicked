@@ -70,7 +70,7 @@ let downloadData;
 
     // Prepare the message with song details
     const messagePayload = {
-      caption: `\n*𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃 𝗦𝗢𝗡𝗚𝗦*\n
+      caption: `\n*OBED TECH 𝗦𝗢𝗡𝗚𝗦*\n
 ╭━⊷
 ┃ *Title:* ${songTitle} 
 ┃ *Quality:* High
@@ -85,7 +85,7 @@ let downloadData;
         mimetype: 'audio/mpeg',
         contextInfo: {
           externalAdReply: {
-            title: "𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃" ,
+            title: "OBED TECH " ,
             body: "Tap her to follow our channel",
             mediaType: 1,
             sourceUrl:"https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo",
