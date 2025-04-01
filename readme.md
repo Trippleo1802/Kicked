@@ -24,12 +24,7 @@
         <img title="OBEDVMD Session ID" src="https://img.shields.io/badge/GET%20SESSION-FF5733?style=for-the-badge&logo=msi&logoColor=white" width="220" height="38.45" />
     </a> 
 
-       ## Fork the repo
-    
-<div align="left">
-    <a href="https://github.com/Trippleo1802/Kicked/forks">
-        <img title="OBED-TECH" src="https://img.shields.io/badge/FORK%20PK%20MD-FF5733?style=for-the-badge&logo=stackshare" />
-    </a>
+     
 
    Stay Connected With The Uatest Updates By
    <br>
