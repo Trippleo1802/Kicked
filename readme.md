@@ -33,4 +33,5 @@
 <a href="https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 </div>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+OBED TECH 𝗕𝗢𝗧+𝗠𝗔𝗗𝗘+𝗜𝗡+KENYA" alt="Typing SVG" /></a>
  
