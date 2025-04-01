@@ -32,7 +32,18 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <a href="https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
-</div>
+</div> 
+
+My Supporters!</h2>
+
+<p align="center">
+  <a href="https://github.com/Trippleo1802/Kicked/stargazers">
+    <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
+  </a>
+  <a href="https://github.com/Trippleo1802/Kicked/forks">
+    <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
+  </a>
+</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝗧𝗛𝗜𝗦+𝗜𝗦+OBED TECH 𝗕𝗢𝗧+𝗠𝗔𝗗𝗘+𝗜𝗡+KENYA" alt="Typing SVG" /></a>
  
