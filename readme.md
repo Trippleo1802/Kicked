@@ -64,6 +64,13 @@ IF YOU WANT TO DEPLOY ON BOT HOSTING
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <a href="https://chat.whatsapp.com/DfJTRlOtIc5HTEFptXYvsV"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20GROUP-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+</div> 
+
+<br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+<a href="https://wa.me/254701082940"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20CONTACT%20OWNER%20OF%20BOT-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 </div>
 
 My Supporters!</h2>
