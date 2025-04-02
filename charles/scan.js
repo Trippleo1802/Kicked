@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://session1234-76aeb9a87df0.herokuapp.com/pair
+ https://obedsession2-bf192fdb5326.herokuapp.com/pair
  
  
  *STEPS TO GET SESSION*
