@@ -17,6 +17,9 @@
 
  <a href="https://dashboard.heroku.com/new?template=https://github.com/Trippleo1802/Kicked"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p> 
 
+🦿 IF YOU WANT TO DEPLOY ON RENDER 
+
+<a href="https://render.com/"><img title="RENDER-DEPLOY" src="https://img.shields.io/badge/RENDER-DEPLOY-h?color=purple&style=for-the-badge&logo=RENDER" width="180" height="43.45"/></a></p>
 
 ### Pair with WhatsApp
   <div align="left">
