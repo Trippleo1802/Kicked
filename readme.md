@@ -19,7 +19,16 @@
 
 🦿 IF YOU WANT TO DEPLOY ON RENDER 
 
-<a href="https://render.com/"><img title="RENDER-DEPLOY" src="https://img.shields.io/badge/RENDER-DEPLOY-h?color=purple&style=for-the-badge&logo=RENDER" width="180" height="43.45"/></a></p>
+<a href="https://render.com/"><img title="RENDER-DEPLOY" src="https://img.shields.io/badge/RENDER-DEPLOY-h?color=purple&style=for-the-badge&logo=RENDER" width="180" height="43.45"/></a></p> 
+
+🦵IF YOU WHAT TO DOWNLOAD OBED TECH ZIP 
+
+<h3 align="left">2️⃣ Download the ZIP File</h3>
+<p align="left">
+  <a href="https://github.com/Trippleo1802/Kicked/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
+  </a>
+</p>
 
 ### Pair with WhatsApp
   <div align="left">
