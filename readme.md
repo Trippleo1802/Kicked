@@ -1,4 +1,11 @@
-# Vmd-Tech🦃 
+<p align="center">
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">OBED_TECH-VMD</h1>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+OBED _TECH+VMD;Created+by+Obed vmd;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+</p> 
+
 ## 𝗪𝗘𝗟𝗖𝗢𝗠E 𝗧𝗢 OBED TECH 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=red&center=true&vCenter=true&width=350&height=50&lines=`🩸⃟༑༑OBED`🩸⃟༑༑+TECH+BOT+`🩸⃟༑༑)](https://git.io/typing-svg)
