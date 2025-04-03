@@ -6,11 +6,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "25470082940"
+global.ownername = "OBED TECH"
+global.ownernumber = '254701082940'  //owner number 2
 //put your phone number above
-//let the owner as Danny or you can just put your name
+//let the owner as Obed tech or you can just put your name
 
 //custom prefix
 global.prefa = [',','!','.','#','&']
@@ -42,8 +42,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 // Reply messages
 global.mess = {
-    done: "`Bot Creepy Done..!`",
-    prem: "`Oh no 😔! This for creepy premium users only...`",
+    done: "`Bot Obed Tech Done..!`",
+    prem: "`Oh no 😔! This for obed tech premium users only...`",
     admin: "`Only Admins can use this 😩`",
     botAdmin: "`🤖 I'm not an admin here 🚶`",
     owner: "`You are not my owner 😡`",
