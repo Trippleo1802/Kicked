@@ -71,7 +71,7 @@ commands.forEach((command) => {
             // Send the follow-up image first with a caption
             await zk.sendMessage(dest, {
                 image: { url: "https://files.catbox.moe/xx6ags.jpeg" }, // Updated image
-                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *Obed vmd*\n📢 Stay updated\nhttps://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I\n\nRepo Url\nhttps://github.com/Trippleo1802/Kicked?tab=readme-ov-file`,
+                caption: `✨ Repository Highlights ✨\n\n🛠️ Developed by *Obed vmd*\n📢 Stay updated\nhttps://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I\n\nRepo Url\nhttps://github.com/Trippleo1802/Kicked?tab=readme-ov-file\n\nOBED TECH SESSION Url\nhttps://obedsession.onrender.com/pair`,
             });
 
             // Follow up with the GitHub repository details
