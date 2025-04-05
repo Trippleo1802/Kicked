@@ -853,12 +853,12 @@ zk.ev.on('group-participants.update', async (group) => {
 │ *ᴀɪ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
-│⭕ ᴍᴏᴅᴇ: *public*
+│⭕ ᴍᴏᴅᴇ: *[${mode}]*
 │💢 *BOT NAME* *Obed*
 ╰─────────────━┈⊷
 
-*Join Whatsapp Group For Updates*
-> https://chat.whatsapp.com/I81wIoCXL4JJGfwnXcxEvx⁠⁠⁠⁠`;
+*Join Whatsapp Channel For Updates*
+> https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
