@@ -848,14 +848,17 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =`     ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴄᴏɴɴᴇᴄᴛᴇᴅ
+                let cmsg =`
 ╭─────────────━┈⊷ 
+│ *ᴀɪ ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*
+╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
-│⭕ ᴍᴏᴅᴇ: *${md}*
-│🌐use . settings 
-│🪰follow channel 
-│✅https://shorturl.at/q8ZuS
-╰─────────────━┈⊷⁠⁠⁠⁠`;
+│⭕ ᴍᴏᴅᴇ: *public*
+│💢 *BOT NAME* *Obed*
+╰─────────────━┈⊷
+
+*Join Whatsapp Group For Updates*
+> https://chat.whatsapp.com/I81wIoCXL4JJGfwnXcxEvx⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
