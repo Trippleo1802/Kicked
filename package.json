@@ -4,10 +4,10 @@
   "description": "",
   "main": "obed.js",
   "scripts": {
-    "test": "node obed.js",
-    "s": "node obed.js",
-    "toshtech": "pm2 start obed.js --attach",
-    "toshtech": "pm2 start obed.js --attach",
+    "test": "node ibrahim.js",
+    "s": "node ibrahim.js",
+    "toshtech": "pm2 start ibrahim.js --attach",
+    "toshtech": "pm2 start ibrahim.js --attach",
     "c": "tsc"
   },
   "keywords": [
